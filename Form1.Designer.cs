@@ -40,10 +40,11 @@
             // 
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dataGridView1.Columns.AddRange(new DataGridViewColumn[] { Column1, Column2, Column3 });
-            dataGridView1.Location = new Point(51, 47);
+            dataGridView1.Location = new Point(45, 35);
+            dataGridView1.Margin = new Padding(3, 2, 3, 2);
             dataGridView1.Name = "dataGridView1";
             dataGridView1.RowHeadersWidth = 51;
-            dataGridView1.Size = new Size(300, 188);
+            dataGridView1.Size = new Size(262, 141);
             dataGridView1.TabIndex = 0;
             // 
             // Column1
@@ -69,20 +70,22 @@
             // 
             // button1
             // 
-            button1.Location = new Point(140, 16);
+            button1.Location = new Point(189, 11);
+            button1.Margin = new Padding(3, 2, 3, 2);
             button1.Name = "button1";
-            button1.Size = new Size(78, 25);
+            button1.Size = new Size(68, 19);
             button1.TabIndex = 1;
-            button1.Text = "button1";
+            button1.Text = "button1iiiiiiiiiiiiiiiiii";
             button1.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(413, 249);
+            ClientSize = new Size(361, 187);
             Controls.Add(button1);
             Controls.Add(dataGridView1);
+            Margin = new Padding(3, 2, 3, 2);
             Name = "Form1";
             Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
