@@ -1,0 +1,17 @@
+C:\Users\v-zhgl\source\repos\DGVTest\bin\Debug\net10.0-windows\DGVTesting.exe
+C:\Users\v-zhgl\source\repos\DGVTest\bin\Debug\net10.0-windows\DGVTesting.deps.json
+C:\Users\v-zhgl\source\repos\DGVTest\bin\Debug\net10.0-windows\DGVTesting.runtimeconfig.json
+C:\Users\v-zhgl\source\repos\DGVTest\bin\Debug\net10.0-windows\DGVTesting.dll
+C:\Users\v-zhgl\source\repos\DGVTest\bin\Debug\net10.0-windows\DGVTesting.pdb
+C:\Users\v-zhgl\source\repos\DGVTest\obj\Debug\net10.0-windows\DGVTesting.Form1.resources
+C:\Users\v-zhgl\source\repos\DGVTest\obj\Debug\net10.0-windows\DGVTesting.csproj.GenerateResource.cache
+C:\Users\v-zhgl\source\repos\DGVTest\obj\Debug\net10.0-windows\DGVTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-zhgl\source\repos\DGVTest\obj\Debug\net10.0-windows\DGVTesting.AssemblyInfoInputs.cache
+C:\Users\v-zhgl\source\repos\DGVTest\obj\Debug\net10.0-windows\DGVTesting.AssemblyInfo.cs
+C:\Users\v-zhgl\source\repos\DGVTest\obj\Debug\net10.0-windows\DGVTesting.csproj.CoreCompileInputs.cache
+C:\Users\v-zhgl\source\repos\DGVTest\obj\Debug\net10.0-windows\DGVTesting.sourcelink.json
+C:\Users\v-zhgl\source\repos\DGVTest\obj\Debug\net10.0-windows\DGVTesting.dll
+C:\Users\v-zhgl\source\repos\DGVTest\obj\Debug\net10.0-windows\refint\DGVTesting.dll
+C:\Users\v-zhgl\source\repos\DGVTest\obj\Debug\net10.0-windows\DGVTesting.pdb
+C:\Users\v-zhgl\source\repos\DGVTest\obj\Debug\net10.0-windows\DGVTesting.genruntimeconfig.cache
+C:\Users\v-zhgl\source\repos\DGVTest\obj\Debug\net10.0-windows\ref\DGVTesting.dll
