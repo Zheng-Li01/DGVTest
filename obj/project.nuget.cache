@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "0P+Wqxba92Y=",
+  "dgSpecHash": "r1vah5Ha6r8=",
   "success": true,
   "projectFilePath": "C:\\Users\\v-zhgl\\source\\repos\\DGVTest\\DGVTesting.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\v-zhgl\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\10.0.100-preview.4.25169.13\\microsoft.net.sdk.compilers.toolset.10.0.100-preview.4.25169.13.nupkg.sha512"
+  ],
   "logs": []
 }
