@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DGVTesting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+133158f871f4f4f074cddf7431d449b48b3f269f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+043a95acc401251f889e04bf717de21e52f4d8a3")]
 [assembly: System.Reflection.AssemblyProductAttribute("DGVTesting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DGVTesting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

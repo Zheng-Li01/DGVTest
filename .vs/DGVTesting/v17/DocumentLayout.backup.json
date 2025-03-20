@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\v-zhgl\\source\\repos\\DGVTest\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C21062CD-D29D-493E-91FC-BE60A5CA7F9A}|..\\WindowsFormsApp3\\WindowsFormsApp3.csproj|c:\\users\\v-zhgl\\source\\repos\\windowsformsapp3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4556025C-DF9E-C8E5-D61D-59954541FB57}|DGVTesting.csproj|c:\\users\\v-zhgl\\source\\repos\\dgvtest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4556025C-DF9E-C8E5-D61D-59954541FB57}|DGVTesting.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -19,6 +22,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\v-zhgl\\source\\repos\\WindowsFormsApp3\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\WindowsFormsApp3\\Form1.cs",
+              "ToolTip": "C:\\Users\\v-zhgl\\source\\repos\\WindowsFormsApp3\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\WindowsFormsApp3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T07:21:58.32Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\v-zhgl\\source\\repos\\DGVTest\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
